@@ -1,0 +1,9 @@
+D:\JAYprojects\AppDesign\JaytronUIsolution\JaytronUI\obj\Debug\JaytronUI.csprojAssemblyReference.cache
+D:\JAYprojects\AppDesign\JaytronUIsolution\JaytronUI\obj\Debug\JaytronUI.Properties.Resources.resources
+D:\JAYprojects\AppDesign\JaytronUIsolution\JaytronUI\obj\Debug\JaytronUI.csproj.GenerateResource.cache
+D:\JAYprojects\AppDesign\JaytronUIsolution\JaytronUI\obj\Debug\JaytronUI.txtGrosPay.resources
+D:\JAYprojects\AppDesign\JaytronUIsolution\JaytronUI\bin\Debug\JaytronUI.exe.config
+D:\JAYprojects\AppDesign\JaytronUIsolution\JaytronUI\bin\Debug\JaytronUI.exe
+D:\JAYprojects\AppDesign\JaytronUIsolution\JaytronUI\bin\Debug\JaytronUI.pdb
+D:\JAYprojects\AppDesign\JaytronUIsolution\JaytronUI\obj\Debug\JaytronUI.exe
+D:\JAYprojects\AppDesign\JaytronUIsolution\JaytronUI\obj\Debug\JaytronUI.pdb
